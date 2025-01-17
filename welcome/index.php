@@ -1,4 +1,5 @@
-<?php include 'header.php'; ?>
+<?php include 'header.php';
+?>
 
 <form action="welcome.php" method="post">
 <div class = row>
